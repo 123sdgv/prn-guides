@@ -9,9 +9,6 @@
 | File | Topic |
 |------|-------|
 | [`heterosexual-power-dynamics.md`](./heterosexual-power-dynamics.md) | GB Play 写作方法论：权力来源的重新设计、节奏控制、场景构建 |
-| [`masculine-vulnerability-aesthetics.md`](./masculine-vulnerability-aesthetics.md) | 嬤男角色塑造：脆弱美学、反差设计、柔软特质的男性书写 |
-| [`female-subjectivity-in-erotic-fiction.md`](./female-subjectivity-in-erotic-fiction.md) | 女攻角色塑造：主体性理论、欲望归属、亲密场景中的权力表达 |
-| [`gender-roles-and-narrative-structure.md`](./gender-roles-and-narrative-structure.md) | BG/GB 关系结构分析：剥削思维的根源、成熟关系的权力流动 |
 
 ---
 
