@@ -8,7 +8,7 @@
 
 | File | Topic |
 |------|-------|
-| [`heterosexual-power-dynamics.md`](./heterosexual-power-dynamics.md) | GB Play 写作方法论：权力来源的重新设计、节奏控制、场景构建 |
+| [`gender-roles-and-narrative-structure.md`](./gender-roles-and-narrative-structure.md) | BG/GB 关系结构分析：剥削思维的根源、成熟关系的权力流动 |
 
 ---
 
